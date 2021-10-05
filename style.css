@@ -1,0 +1,16 @@
+.back{
+    background-image: url(images/b-2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.tab-title{
+    color: white;
+}
+.tab-title-single{
+    color: red;
+}
+.last-sec{
+    background-image: url(images/subscribe.jpg);
+    background-position: center;
+    background-size: cover;
+}
